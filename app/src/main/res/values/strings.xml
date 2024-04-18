@@ -2,9 +2,10 @@
     <string name="app_name">Agenda</string>
     <string name="title_activity_formulario_aluno">FormularioAlunoActivity</string>
     <string name="nome">Nome</string>
-    <string name="telefone">Telefone</string>
     <string name="email">E-mail</string>
     <string name="salvar">Salvar</string>
     <string name="remover">Remover</string>
     <string name="todo">TODO</string>
+    <string name="telefone_fixo">Telefone fixo</string>
+    <string name="telefone_celular">Telefone celular</string>
 </resources>
